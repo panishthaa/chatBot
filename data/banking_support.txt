@@ -1,0 +1,5 @@
+KYC means Know Your Customer and is mandatory for identity verification.
+Customers can open a bank account online using Aadhaar and PAN verification.
+UPI failed transactions are usually resolved within 24 hours.
+Internet banking password can be reset using OTP verification.
+NEFT transfers are usually processed within 2 hours.
