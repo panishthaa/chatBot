@@ -1,8 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"
-
+API_URL = "https://web-production-9023ad.up.railway.app"
 st.set_page_config(
     page_title="AI Banking Support Chatbot",
     page_icon="💳",
